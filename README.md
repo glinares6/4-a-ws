@@ -2,4 +2,4 @@
 
 Recurso modificado de Escuela digital con fines de aprendizaje
 
-# stio de prueba  4
+# sitio de prueba  4
